@@ -10,7 +10,13 @@ There are a number of free, interactive tutorials that review SQL fundamentals. 
 
 ## Main Activity
 
-We recommend completeing [Khan Academy's Intro to SQL](https://www.khanacademy.org/computing/computer-programming/sql) course, specifically the sections on 1) [SQL basics](https://www.khanacademy.org/computing/computer-programming/sql#sql-basics), 2) [more advanced SQL queries](https://www.khanacademy.org/computing/computer-programming/sql#more-advanced-sql-queries), and 3) [relational queries in SQL](https://www.khanacademy.org/computing/computer-programming/sql#relational-queries-in-sql). It provides instructional videos and hands-on activities re-inforcing the SQL you learned in the course. We anticipate that it will take about 5 hours to complete.
+We recommend completeing three sections from [Khan Academy's Intro to SQL](https://www.khanacademy.org/computing/computer-programming/sql) course. It provides instructional videos and hands-on activities re-inforcing the SQL you learned in the course. We anticipate that it will take about 5 hours to complete:
+
+1. [SQL basics](https://www.khanacademy.org/computing/computer-programming/sql#sql-basics)
+2. [More advanced SQL queries](https://www.khanacademy.org/computing/computer-programming/sql#more-advanced-sql-queries)
+3. [Relational queries in SQL](https://www.khanacademy.org/computing/computer-programming/sql#relational-queries-in-sql)
+
+If you have trouble with these activites, we recommend returning to this after re-doing the activities from the SQL section(s) from your Learn.co track.
 
 ## Supplemental Activities
 
