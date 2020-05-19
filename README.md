@@ -1,8 +1,7 @@
 # SQL Refresher
 
 
-
-## Overview
+## Introduction
 
 Good SQL skills are indispensable to nail a Data Science interview! There are a number of free, interactive tutorials that review SQL fundamentals. These include exercises similar to those you might be given during an interview or tasks you might face once you're hired.
 
